@@ -1,0 +1,49 @@
+{
+ 	"result":1,
+    "data": [
+        {
+            "img":"http://ordfm6aah.bkt.clouddn.com/shop/2.jpeg",
+            "id":"111",
+            "state":1,
+            "sites": [
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/2.jpeg", "state":"1", "info":[ "Android", "Google 搜索", "Google 翻译" ] },
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/3.jpeg", "state":"2", "info":[ "菜鸟教程", "菜鸟工具", "菜鸟微信" ] },
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/4.jpeg", "state":"3", "info":[ "淘宝", "网购" ] }
+            ],
+            "video":"http://www.w3school.com.cn/i/movie.ogg"
+        },
+        {
+            "img":"http://ordfm6aah.bkt.clouddn.com/shop/3.jpeg",
+             "id":"222",
+             "state":2,
+             "sites": [
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/5.jpeg", "state":"2", "info":[ "Android", "Google 搜索", "Google 翻译" ] },
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/6.jpeg", "state":"2", "info":[ "菜鸟教程", "菜鸟工具", "菜鸟微信" ] },
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/7.jpeg", "state":"1", "info":[ "淘宝", "网购" ] }
+            ],
+            "video":"http://www.w3school.com.cn/i/movie1.ogg"
+        },
+        {
+            "img":"http://ordfm6aah.bkt.clouddn.com/shop/4.jpeg",
+             "id":"333",
+             "state":3,
+             "sites": [
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/8.jpeg", "state":"1", "info":[ "Android", "Google 搜索", "Google 翻译" ] },
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/9.jpeg", "state":"3", "info":[ "菜鸟教程", "菜鸟工具", "菜鸟微信" ] },
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/10.jpeg", "state":"3", "info":[ "淘宝", "网购" ] }
+            ],
+            "video":"http://www.w3school.com.cn/i/movie2.ogg"
+        },
+        {
+            "img":"http://ordfm6aah.bkt.clouddn.com/shop/5.jpeg",
+             "id":"4444",
+             "state":1,
+             "sites": [
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/1.jpeg", "state":"1", "info":[ "Android", "Google 搜索", "Google 翻译" ] },
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/1.jpeg", "state":"1", "info":[ "菜鸟教程", "菜鸟工具", "菜鸟微信" ] },
+                { "img":"http://ordfm6aah.bkt.clouddn.com/shop/3.jpeg", "state":"3", "info":[ "淘宝", "网购" ] }
+            ],
+            "video":"http://www.w3school.com.cn/i/movie3.ogg"
+        }
+    ]
+}
